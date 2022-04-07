@@ -8,6 +8,9 @@ Project Includes Front end and back end system.
 
 Project consists Code and Documents
 
-### Contact : vatshayan007@gmail.com
+### Contact for project files : vatshayan007@gmail.com
+
+### Contact me for any kind of help on blockchain projects.
+
 
 
